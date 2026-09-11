@@ -1,8 +1,8 @@
-# Lecture 2: Pipelines, Scripts, and Loops
+# Lecture 2: From Commands to Pipelines to Scripts
 
 Follow the [Lecture 2 instructions](https://github.com/tamucc-comp-bio/classroom_repo_2026/blob/main/lectures/lecture02.md) while working in your terminal.
 
-Copy its SSH address from **Code → SSH**. Replace `YOUR-COPIED-SSH-ADDRESS` below with that address:
+Copy this repo's SSH address from **Code → SSH**. Replace `YOUR-COPIED-SSH-ADDRESS` below with that address:
 
 ```text
 cd ~
