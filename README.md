@@ -2,7 +2,7 @@
 
 Follow the [Lecture 2 instructions](https://github.com/tamucc-comp-bio/classroom_repo_2026/blob/main/lectures/lecture02.md) while working in your terminal.
 
-Accept Lecture 2 in Classroom 50 and open your personal repository. Copy its SSH address from **Code → SSH**. Replace `YOUR-COPIED-SSH-ADDRESS` below with that address:
+Copy its SSH address from **Code → SSH**. Replace `YOUR-COPIED-SSH-ADDRESS` below with that address:
 
 ```text
 cd ~
